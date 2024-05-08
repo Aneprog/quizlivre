@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:51:44	40004/40004	---M-Z	200	added ('OK')	text/html	etag:%221557-1715175386;gz%22	https://mlquiz.online/quiz/	C:/Users/DXP%20HUB/Desktop/mercadolivrenovo/mlquiz.online/quiz/index.html	(from )
+16:51:44	69/69	---MCZ	200	added ('OK')	text/plain	etag:%221593-1715189358;gz%22	https://mlquiz.online/robots.txt		(from )
+16:51:44	23863/23863	---M-Z	200	added ('OK')	text/css	date:Wed,%2008%20May%202024%2005:37:29%20GMT	https://mlquiz.online/wp-content/litespeed/ucss/3b8eed6a61d5af0c1c57a8b35394bc73.css?ver=87a59	C:/Users/DXP%20HUB/Desktop/mercadolivrenovo/mlquiz.online/wp-content/litespeed/ucss/3b8eed6a61d5af0c1c57a8b35394bc73d83f.css	(from https://mlquiz.online/quiz/)
